@@ -1,3 +1,4 @@
+
 class API < Grape::API
   get :hello do
     event = Event.create

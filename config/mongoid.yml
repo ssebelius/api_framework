@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: framework_sample
+      hosts:
+        - localhost:27017

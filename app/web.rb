@@ -1,5 +1,5 @@
 class Web < Sinatra::Base
   get '/' do
-    'Hello world!'
+    'Hello world! - Web.rb'
   end
 end
